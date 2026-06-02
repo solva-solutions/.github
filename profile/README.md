@@ -1,99 +1,107 @@
-# CryptoCrew Validators
+# Solva
 
-![CryptoCrew Validators Logo](https://raw.githubusercontent.com/cryptocrew-validators/.github/main/profile/cryptocrew-logo-white-font.png)
+![Solva Logo](./solva-logo-_white.png)
 
-CryptoCrew Validators is a reputable Austrian-based web3 infrastructure company, committed to upholding the highest standards of transparency, integrity, and security. We serve as a Validator, IBC Integrator, Relayer, and Blockchain Node Provider. We validate over 35 networks and provide IBC-Relayers to over 50 networks. Our mission is to secure various blockchain networks while offering staking rewards.
+## About
 
-- Website: [ccvalidators.com](https://ccvalidators.com)  
+Solva is a blockchain infrastructure and operations company trusted by protocols, institutional clients, custodians, and high-performance trading firms.
+
+Founded in 2021, Solva designs, deploys, and operates mission-critical blockchain infrastructure across 40+ networks. From validator operations and institutional staking to appchain deployments, RPC infrastructure, and cross-chain connectivity, Solva delivers production-ready systems engineered for reliability, security, and performance.
+
+Operating from Europe with globally distributed infrastructure, Solva maintains enterprise-grade operational standards including multi-region redundancy, advanced monitoring, automated failover procedures, and MPC-based key management. Our infrastructure secures millions of dollars in digital assets and supports some of the industry's most demanding production environments.
+
+As one of the earliest operators of large-scale IBC relayer infrastructure, Solva continues to play an active role in advancing interoperability and blockchain infrastructure across the broader ecosystem.
+
+- Website: [solva.solutions](https://solva.solutions)  
 
 ## Table of Contents
 - [Services](#services)
-- [Supported Networks](#supported-networks)
 - [Security Measures](#security-measures)
 - [Governance](#governance)
 - [Contact Information](#contact-information)
-- [Additional Resources](#additional-resources)
+- [Supported Networks](#validators-live)
 
 ## Services
-**Blockchain Validation**
-- 🛡️ Secure and reliable validation services  
+**Institutional Staking & Validator Operations**
+- Secure, non-custodial staking infrastructure for institutions, custodians, protocols, and treasury managers
 
-**Bare Metal Node-Provider**
-- ⚙️ Dedicated single-tenancy nodes for maximum security and stability  
+**White-Label Validator Services**
+- Dedicated validator infrastructure and operational support for ecosystems and enterprise clients  
 
-**IBC Integration**
-- 🔄 Seamless Inter-Blockchain Communication  
+**Managed Blockchain Infrastructure**
+- RPC endpoints, archive nodes, indexers, and custom infrastructure deployments 
 
-**Relaying**
-- 📡 Over 50 networks actively relaying  
+**IBC & Cross-Chain Infrastructure**
+- Multi-chain relaying, interoperability services, and cross-chain operations across 50+ networks
 
-**Customized Staking Solutions**
-- 💰 For high-value stakers, associate delegators, and companies 
+**Dedicated Bare Metal Infrastructure**
+- Single-tenant deployments engineered for performance, security, and reliability
 
-**Infrastructure Services**
-- ✅ Snapshot-Service, State-Export, Seednodes, Peer-Lists
+**Appchain Operations**
+- End-to-end support for blockchain deployments, upgrades, maintenance, and operational excellence
 
 ## Security Measures
-- 24/7 On-call team for incident responses
-- Remote key-management systems
-- IDS, IPS, encrypted & private connections
+- SOC 2 Type II operational standards
+- MPC-based key management architecture
+- Multi-region infrastructure redundancy
+- 24/7 monitoring and incident response
+- Automated failover and disaster recovery procedures
+- Enterprise-grade networking and access controls
 
 ## Governance
-- Active community and governance participation
-- Team of experts with years of experience in blockchain technology
+- Active governance participation across supported ecosystems
+- Long-term network alignment and operational commitment
+- Open-source tooling and infrastructure contributions
 
 ## Contact Information
-- General Inquiries: info@ccvalidators.com
-- Support: support@ccvalidators.com
+- General Inquiries: [info@solva.solutions](mailto:info@solva.solutions)
+- Security Reporting / Emergencies: [security@solva.solutions](mailto:security@solva.solutions)
 
 ## Social Links
+- Official Website: [solva.solutions](https://solva.solutions)  
 - Twitter: [@crypto_crew](https://twitter.com/crypto_crew)  
 - Reddit: [r/cryptocrewvalidators](https://www.reddit.com/r/cryptocrewvalidators)  
-- Telegram: [CryptoCrew Validators public staker's lounge](https://t.me/cryptocrew_validators) or @clemensg (emergency contact)
-- Discord: [CryptoCrew Validators public server](https://discord.gg/ACsTu6kh) or @Claimens#3460 (emergency contact)
-- email: info@ccvalidators.com / support@ccvalidators.com
+- Telegram: [Solva public group](https://t.me/solva_staking)
 
-## Validators live
+## Validators live:
+
 | Chain Name         | Chain ID                 | Validator address                                            | Link                  |
 | ----------------- | -------------------------- | ------------------------------------------------------------ | --------------------- |
-| Cosmos Hub | `cosmoshub-4` | `cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc` | [delegate ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc) |
-| Osmosis | `osmosis-1` | `osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6` | [delegate OSMO](https://wallet.keplr.app/chains/osmosis?modal=validator&chain=osmosis-1&validator_address=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6) |
-| Juno | `juno-1` | `junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k` | [delegate JUNO](https://wallet.keplr.app/chains/juno?modal=validator&chain=juno-1&validator_address=junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k) |
-| dYdX Chain | `dydx-mainnet-1` | `dydxvaloper199fjq4rnfvz24cktl8cervx8h8e90ruk3yrrdn` | [delegate DYDX](https://wallet.keplr.app/chains/dydx?modal=validator&chain=dydx-mainnet-1&validator_address=dydxvaloper199fjq4rnfvz24cktl8cervx8h8e90ruk3yrrdn) |
-| Celestia | `celestia` | `celestiavaloper138jl42zlxue4wpvnugcdqhxjmyd2vpt6qhs5ls` | [delegate TIA](https://wallet.keplr.app/chains/celestia?modal=validator&chain=celestia&validator_address=celestiavaloper138jl42zlxue4wpvnugcdqhxjmyd2vpt6qhs5ls) |
-| Dymension | `dymension_1100-1` | `dymvaloper192a6ttzqxu9hcmm6lh6nrv9jx7am27j9q7cyau` | [delegate DYM](https://wallet.keplr.app/chains/dymension?tab=staking&modal=validator&chain=dymension_1100-1&validator_address=dymvaloper192a6ttzqxu9hcmm6lh6nrv9jx7am27j9q7cyau) |
-| Secret Network | `secret-4` | `secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w` | [delegate SCRT](https://wallet.keplr.app/chains/secret-network?modal=validator&chain=secret-4&validator_address=secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w) |
-| Terra Phoenix | `phoenix-1` | `terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x` | [delegate LUNA](https://station.terra.money/stake/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x) |
-| Kava | `kava_2222-10` | `kavavaloper1esyc9s7n782hw4xktzvrcf609st6emml5tnluu` | [delegate KAVA](https://wallet.keplr.app/chains/kava?modal=validator&chain=kava_2222-10&validator_address=kavavaloper1esyc9s7n782hw4xktzvrcf609st6emml5tnluu) |
-| Kujira | `kaiyo-1` | `kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq` | [delegate KUJI](https://blue.kujira.app/stake/kujiravaloper1vsqs0d3y6ufln266r60qvszhps3tmgsxcpsgyq) |
-| Evmos | `evmos_9001-2` | `evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0` | [delegate EVMOS](https://wallet.keplr.app/chains/evmos?modal=validator&chain=evmos_9001-2&validator_address=evmosvaloper1qhazu8zleyn5chrkxymewx3xw5guq2vm6q7zl0) |
-| Injective | `injective-1` | `injvaloper1nq37nq79w2j76xj8qhjzcn6vh0wlx0qk2r7zm6` | [delegate INJ](https://hub.injective.network/validators/injvaloper1nq37nq79w2j76xj8qhjzcn6vh0wlx0qk2r7zm6) |
-| Archway | `archway-1` | `archwayvaloper1feuxzwn0d498v38799x06n6hqlc5d04ydpczaq` | [delegate ARCH](https://archway.disperze.network/validators/archwayvaloper1feuxzwn0d498v38799x06n6hqlc5d04ydpczaq) |
-| Agoric | `agoric-3` | `agoricvaloper1s8kfsaa8g45ucwkkthl9ccagmecmj4uxdu2hkj` | [delegate BLD](https://wallet.keplr.app/chains/agoric?modal=validator&chain=agoric-3&validator_address=agoricvaloper1s8kfsaa8g45ucwkkthl9ccagmecmj4uxdu2hkj) |
-| Mars | `mars-1` | `marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd` | [delegate MARS](https://station.terra.money/validator/marsvaloper1t7jn0208cmk5xky0vhvd0pzec3zuv9z5wwyrmd) |
-| Axelar | `undefined` | `axelarvaloper1zg3g70xsxc28jw7ed36nxh7x70s22ufrw4urnk` | [delegate AXL](https://wallet.keplr.app/chains/axelar?modal=validator&chain=axelar-dojo-1&validator_address=axelarvaloper1zg3g70xsxc28jw7ed36nxh7x70s22ufrw4urnk) |
-| Persistence | `core-1` | `persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879` | [delegate XPRT](https://wallet.keplr.app/chains/persistence?modal=validator&chain=core-1&validator_address=persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879) |
-| Stargaze | `stargaze-1` | `starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn` | [delegate STARS](https://wallet.keplr.app/chains/stargaze?modal=validator&chain=stargaze-1&validator_address=starsvaloper12v78y2lrpy2euhuzjtd6ssyzz3zllgs0uqk3nn) |
-| White Whale | `migaloo-1` | `migaloovaloper127nprdxstd5t5wt6frxk3fgj74zdp5mef63chj` | [delegate WHALE](https://restake.app/migaloo/migaloovaloper127nprdxstd5t5wt6frxk3fgj74zdp5mef63chj) |
-| Passage | `passage-1` | `pasgvaloper1pjay45yqzpnn6364l2peqej9t2ah5vknp9kxy6` | [delegate PSG](https://restake.app/passage/pasgvaloper1pjay45yqzpnn6364l2peqej9t2ah5vknp9kxy6) |
-| Chihuahua Chain | `chihuahua-1` | `chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8` | [delegate HUAHUA](https://restake.app/chihuahua/chihuahuavaloper166ks8xvs36m0ggyxwavv7rj4d9nqwthgq5g7s8) |
-| Omniflix Hub | `omniflixhub-1` | `omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme` | [delegate FLIX](https://restake.app/omniflixhub/omniflixvaloper1smuvvnjj6w7x6ytq9kdgvlj6er99y6645hjfme) |
-| Comdex | `comdex-1` | `comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6` | [delegate CMDX](https://restake.app/comdex/comdexvaloper10d87jx68zygmwagu9ggzxpept07zs7nmcpyjr6) |
-| Nolus | `pirin-1` | `nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3` | [delegate NLS](https://ping.pub/nolus/staking/nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3) |
-| Composable Finance | `centauri-1` | `centaurivaloper1p86dkzgthapcqkgymq70qvjnt4exf09hf308pu` | [delegate PICA](https://ping.pub/Composable/staking/centaurivaloper1p86dkzgthapcqkgymq70qvjnt4exf09hf308pu) |
-| Quicksilver | `quicksilver-2` | `quickvaloper1qc8gf4qfemx5jahr5j4varpmhhs35q9pgl2w58` | [delegate QCK](https://restake.app/quicksilver/quickvaloper1qc8gf4qfemx5jahr5j4varpmhhs35q9pgl2w58) |
-| Band Protocol | `laozi-mainnet` | `bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz` | [delegate BAND](https://restake.app/bandchain/bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz) |
-| Gravity Bridge | `gravity-bridge-3` | `gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus` | [delegate GRAV](https://restake.app/gravitybridge/gravityvaloper1er4804lrn7nu756c9dfg2z7l6288z2d64ltlus) |
-| Crescent Hub | `crescent-1` | `crevaloper140cztktnml85tqfyw6qjee506gheg0rdteh0se` | [delegate CRE](https://restake.app/crescent/crevaloper140cztktnml85tqfyw6qjee506gheg0rdteh0se) |
-| E-Money | `emoney-3` | `emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh` | [delegate NGM](https://wallet.keplr.app/chains/e-money?modal=validator&chain=emoney-3&validator_address=emoneyvaloper1ggpn5jtrgf5hhzw79la6k4h9jgcws3erjzccuh&referral=true) |
-| Nomic Stakenet | `nomic-stakenet-3` | `nomicvaloper1j30mgmf5hggd8y0n8gccg7fmkrf0zv6q9chl2g` | [delegate NOM](https://app.nomic.io/#/staking?validator=nomic15aarwg3ak0cpck643asxjcpkl8m39w7gr2e3fr&modal=info) |
-| Sommelier | `sommelier-3` | `sommvaloper1xz0eu8um28a72rl9gufhszkd6tewus8u38l5nd` | [delegate SOMM](https://wallet.keplr.app/chains/sommelier?modal=validator&chain=sommelier-3&validator_address=sommvaloper1xz0eu8um28a72rl9gufhszkd6tewus8u38l5nd) |
-| Empowerchain | `empowerchain-1` | `empowervaloper1kw09yq42ll0lnrteqcyq5mluvmlp7mvsqg7duh` | [delegate MPWR](https://ping.pub/empower/staking/empowervaloper1kw09yq42ll0lnrteqcyq5mluvmlp7mvsqg7duh) |
-| Teritori | `teritori-1` | `torivaloper1qv7tzt3e2w2ssl8kn9c4m999f4vy8k0cnpmhct` | [delegate TORI](https://explorer.teritori.com/teritori/staking/torivaloper1qv7tzt3e2w2ssl8kn9c4m999f4vy8k0cnpmhct) |
-| Lum Network | `lum-network-1` | `lumvaloper1y69ary732dmngmj2g2e8m2ssedugya4may0tj5` | [delegate LUM](https://restake.app/lumnetwork/lumvaloper1y69ary732dmngmj2g2e8m2ssedugya4may0tj5) |
-| Bitsong | `bitsong-2b` | `bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda` | [delegate BTSG](https://restake.app/bitsong/bitsongvaloper1wetqg989uyj3mpk07h8yt3qvu2cdlsv7fp3zda) |
-| Chain 4 Energy | `perun-1` | `c4evaloper1u9gslrlvpte9n8r00sder6mh3w8xcadqlmfvae` | [delegate C4E](https://restake.app/chain4energy/c4evaloper1u9gslrlvpte9n8r00sder6mh3w8xcadqlmfvae) |
-| Dig Chain | `dig-1` | `digvaloper184tx500pdv53uua98ezu2vy2zcfp5nfwrsjnz7` | [delegate DIG](https://restake.app/dig/digvaloper184tx500pdv53uua98ezu2vy2zcfp5nfwrsjnz7) |
-| Vidulum | `vidulum-1` | `vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj` | [delegate VDL](https://restake.app/vidulum/vdlvaloper1p90dt0hz833deaf24x69asp462vwkpgu2ln4gj) |
-| Odin | `odin-mainnet-freya` | `odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z` | [delegate ODIN](https://restake.app/odin/odinvaloper103yy6yxn7u3tfs25fr4xt4hyfq9h44ydw98n3z) |
-| Radix | `olymipa` | `rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md` | [delegate XRD](https://explorer.radixdlt.com/#/validators/rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md) |
+| `Cosmos Hub` | `cosmoshub-4` | `cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc` | [delegate ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=staking&chain=cosmoshub-4&validator_address=cosmosvaloper14qazscc80zgzx3m0m0aa30ths0p9hg8vdglqrc&step_id=2) |
+| `Osmosis` | `osmosis-1` | `osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6` | [delegate OSMO](https://wallet.keplr.app/chains/osmosis?modal=staking&chain=osmosis-1&validator_address=osmovaloper1h2c47vd943scjlfum6yc5frvu2l279lwjep5d6&step_id=2) |
+| `dYdX Chain` | `dydx-mainnet-1` | `dydxvaloper199fjq4rnfvz24cktl8cervx8h8e90ruk3yrrdn` | [delegate DYDX](https://wallet.keplr.app/chains/dydx?modal=staking&chain=dydx-mainnet-1&validator_address=dydxvaloper199fjq4rnfvz24cktl8cervx8h8e90ruk3yrrdn&step_id=2) |
+| `Celestia` | `celestia` | `celestiavaloper138jl42zlxue4wpvnugcdqhxjmyd2vpt6qhs5ls` | [delegate TIA](https://wallet.keplr.app/chains/celestia?modal=staking&chain=celestia&validator_address=celestiavaloper138jl42zlxue4wpvnugcdqhxjmyd2vpt6qhs5ls&step_id=2) |
+| `Dymension` | `dymension_1100-1` | `dymvaloper192a6ttzqxu9hcmm6lh6nrv9jx7am27j9q7cyau` | [delegate DYM](https://wallet.keplr.app/chains/dymension?modal=staking&chain=dymension_1100-1&validator_address=dymvaloper192a6ttzqxu9hcmm6lh6nrv9jx7am27j9q7cyau&step_id=2) |
+| `Mantrachain` | `mantra-1` | `mantravaloper1maxq9hma5h89ham2uvtfmv9uqujfratjyfchph` | [delegate MANTRA](https://wallet.keplr.app/chains/mantra?modal=staking&chain=mantra-1&validator_address=mantravaloper1maxq9hma5h89ham2uvtfmv9uqujfratjyfchph&step_id=2) |
+| `Xion` | `xion-mainnet-1` | `xionvaloper15vdz44lyndpn0lf7vqqe0rkprnamwxx2kkuk67` | [delegate XION](https://wallet.keplr.app/chains/xion?modal=staking&chain=xion-mainnet-1&validator_address=xionvaloper15vdz44lyndpn0lf7vqqe0rkprnamwxx2kkuk67&step_id=2) |
+| `Secret Network` | `secret-4` | `secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w` | [delegate SCRT](https://wallet.keplr.app/chains/secret-network?modal=staking&chain=secret-4&validator_address=secretvaloper1tums792cvpugaydvqgl7t6r5khfsgh7n78hs5w&step_id=2) |
+| `Terra Phoenix` | `phoenix-1` | `terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x` | [delegate LUNA](https://station.terra.money/stake/terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x) |
+| `Kava` | `kava_2222-10` | `kavavaloper1esyc9s7n782hw4xktzvrcf609st6emml5tnluu` | [delegate KAVA](https://wallet.keplr.app/chains/kava?modal=staking&chain=kava_2222-10&validator_address=kavavaloper1esyc9s7n782hw4xktzvrcf609st6emml5tnluu&step_id=2) |
+| `Injective` | `injective-1` | `injvaloper1nq37nq79w2j76xj8qhjzcn6vh0wlx0qk2r7zm6` | [delegate INJ](https://wallet.keplr.app/chains/injective?modal=staking&chain=injective-1&validator_address=injvaloper1nq37nq79w2j76xj8qhjzcn6vh0wlx0qk2r7zm6&step_id=2) |
+| `Archway` | `archway-1` | `archwayvaloper1feuxzwn0d498v38799x06n6hqlc5d04ydpczaq` | [delegate ARCH](https://archway.disperze.network/validators/archwayvaloper1feuxzwn0d498v38799x06n6hqlc5d04ydpczaq) |
+| `Agoric` | `agoric-3` | `agoricvaloper1s8kfsaa8g45ucwkkthl9ccagmecmj4uxdu2hkj` | [delegate BLD](https://wallet.keplr.app/chains/agoric?modal=staking&chain=agoric-3&validator_address=agoricvaloper1s8kfsaa8g45ucwkkthl9ccagmecmj4uxdu2hkj&step_id=2) |
+| `Penumbra` | `mainnet` | `penumbravalid1rp3ensht938kegyckygsnu7pjvzj3vvcxys842jywzct7t3nfupslhnpy4` | [delegate UM](https://eclipse.in.net/#/staking) |
+| `FUEL` | `seq-mainnet-1` | `fuelsequencervaloper1tqvdcnuflw7w59vppp0ya2ue75xcrq6xfylgdh` | [delegate FUEL](https://app.fuel.network/staking/on-fuel) |
+| `Persistence` | `core-1` | `persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879` | [delegate XPRT](https://wallet.keplr.app/chains/persistence?modal=staking&chain=core-1&validator_address=persistencevaloper1l9m7l6l8k8g7ss7mgjwjgchpclrt74a2uyv879&step_id=2) |
+| `Nolus` | `pirin-1` | `nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3` | [delegate NLS](https://ping.pub/nolus/staking/nolusvaloper1nryk8vpd75d2nvld2hej0nfal64qm3wpnt7cg3) |
+| `Band` | `laozi-mainnet` | `bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz` | [delegate BAND](https://restake.app/bandchain/bandvaloper1ev4ylm9q6kyzsck3t6sw0h86zev95cfxzkn4cz) |
+| `Nomic` | `nomic-stakenet-3` | `nomicvaloper1j30mgmf5hggd8y0n8gccg7fmkrf0zv6q9chl2g` | [delegate NOM](https://app.nomic.io/staking?validator=nomic15aarwg3ak0cpck643asxjcpkl8m39w7gr2e3fr&modal=info) |
+| `Akash` | `akashnet-2` | `akashvaloper1f9f5eccuuhzdw4uwde92ee40eke9fadhvez88g` | [delegate AKT](https://wallet.keplr.app/?tab=staking&modal=validator&chain=akashnet-2&validator_address=akashvaloper1f9f5eccuuhzdw4uwde92ee40eke9fadhvez88g&step_id=2) |
+| `Empowerchain` | `empowerchain-1` | `empowervaloper1kw09yq42ll0lnrteqcyq5mluvmlp7mvsqg7duh` | [delegate MPWR](https://ping.pub/empower/staking/empowervaloper1kw09yq42ll0lnrteqcyq5mluvmlp7mvsqg7duh) |
+| `Oraichain` | `Oraichain` | `oraivaloper1hcpav86sv4drafsxjv2ludjhnsegu44t97dvhr` | [delegate ORAI](https://restake.app/oraichain/oraivaloper1hcpav86sv4drafsxjv2ludjhnsegu44t97dvhr) |
+| `Babylon` | `bbn-1` | `bbnvaloper1eunu7l7qfmemdw4xv7apejl28jzgd3t346dh63` | [delegate BABY](https://wallet.keplr.app/chains/babylon?modal=staking&chain=bbn-1&validator_address=bbnvaloper1eunu7l7qfmemdw4xv7apejl28jzgd3t346dh63&step_id=2) |
+| `Neutron` | `neutron-1` | `neutronvaloper1e6rw7a7ngjmn8qjqfymu4en0px7hlr27fpf55k` | [delegate NTRN](https://wallet.keplr.app/chains/neutron?modal=staking&chain=neutron-1&validator_address=neutronvaloper1e6rw7a7ngjmn8qjqfymu4en0px7hlr27fpf55k&step_id=2) |
+| `NEAR Protocol` | `mainnet` | `cryptocrew.poolv1.near` | [delegate NEAR](https://app.mynearwallet.com/staking/cryptocrew.poolv1.near/stake) |
+| `THORChain` | `thorchain-1` | `thor10ma7lf07ld98wcm3nvt7uptase4mhrt82rkvg4` | [delegate RUNE](https://solva.solutions/staking/networks/thorchain) |
+| `Ethereum` | `lido` | `0x4420559d41b04cc68f91ef8b6cc7842a8384c203` | [delegate ETH](https://stake.lido.fi) |
+| `Radix` | `olymipa` | `validator_rdx1sdk493n96m2v8t0st6hgrdmdua8y6kp84lcwv35qr7umvj7ar4x3e8` | [delegate XRD](https://dashboard.radixdlt.com/network-staking/validator_rdx1sdk493n96m2v8t0st6hgrdmdua8y6kp84lcwv35qr7umvj7ar4x3e8) |
+| `Avail` | `mainnet` | `5HB3SEzH6cP5BE4S6rwhXoji7wy1VQkDX7kb4yQ92TPGhgwF` | [delegate AVAIL](https://explorer.avail.so/#/staking) |
+| `Avalanche` | `P-Chain` | `NodeID-E8CBDCxz5E7T2yVUeKEzR3VuJytqobJa9` | [delegate AVAX]() |
+| `Namada` | `namada.5f5de2dd1b88cba30586420` | `tnam1qyxd5eh0mf49at77dursxnlsygn5se6d45tj5y47` | [delegate NAM]() |
+| `Monad` | `143` | `0xd583CADC6b9d054cE9FF9Abfe2290dE4D5cdd9d3` | [delegate MON](https://www.gmonads.com/staking) |
+| `Union` | `union-1` | `unionvaloper1maxq9hma5h89ham2uvtfmv9uqujfratjsqqqds` | [delegate U](https://explorer.union.build/union/staking/unionvaloper1maxq9hma5h89ham2uvtfmv9uqujfratjsqqqds) |
+| `Seda` | `seda-1` | `sedavaloper1fzajuz35a4h5sf88lkzefnryped5juzqlg63kv` | [delegate SEDA](https://ping.pub/seda/staking/sedavaloper1fzajuz35a4h5sf88lkzefnryped5juzqlg63kv) |
+| `Saga` | `ssc-1` | `sagavaloper13pcp0cstupahzz3n36x0dlhpa9fr8m9vlcy78y` | [delegate SAGA](https://ping.pub/saga/staking/sagavaloper13pcp0cstupahzz3n36x0dlhpa9fr8m9vlcy78y) |
+| `Zigchain` | `Zigchain-1` | `zigvaloper19jhukjxn9ckjl5c95453hrmuypgarftg8exy6s` | [delegate ZIG](https://hub.zigchain.com/validators/detail/?address=zigvaloper19jhukjxn9ckjl5c95453hrmuypgarftg8exy6s) |
+| `Sei` | `pacific-1` | `seivaloper1rrw434ua5g5v3786t0ww35we00mqurcny60u8m` | [delegate SEI](https://dashboard.sei.io/stake/seivaloper1rrw434ua5g5v3786t0ww35we00mqurcny60u8m) |
+| `Radix` | `olymipa` | `rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md` | [delegate XRD](https://explorer.radixdlt.com/#/validators/rv1qtsyl0q7nl0642dp9nehp5579cclskxg6v70yphy5wcfxpmjfqc66s4l9md) |
